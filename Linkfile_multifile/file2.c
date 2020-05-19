@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "hello.h"
 
-int subtract (int a,int b)
+int power (int a,int b)
 {
 
-  return a-b;
+  return a^b;
 }
