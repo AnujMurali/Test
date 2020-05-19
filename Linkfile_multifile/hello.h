@@ -7,6 +7,6 @@
 #include <stdlib.h>
 
 
-int add ();
-int subtract ();
+int mod ();
+int power ();
 #endif
