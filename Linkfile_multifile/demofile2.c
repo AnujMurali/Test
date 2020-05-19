@@ -4,8 +4,8 @@
 int main()
 {
 	int c,d;
-	c=add(1,2);
-	d=subtract(4,5);
-	printf("Add:%d\n",c);
-	printf("Subtract:%d\n",d);
+	c=mod(24,5);
+	d=power(2,10);
+	printf("Mod:%d\n",c);
+	printf("Power:%d\n",d);
 }
