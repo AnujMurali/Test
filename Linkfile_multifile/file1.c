@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "hello.h"
 
-int add (int a,int b)
+int mod (int a,int b)
 {
 
-  return a+b;
+  return a%b;
 }
